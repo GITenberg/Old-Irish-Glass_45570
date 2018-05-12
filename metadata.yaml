@@ -1,0 +1,26 @@
+_repo: Old-Irish-Glass_45570
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45570-h/images/oi_cover.jpg
+creator:
+  author:
+    agent_name: Stannus, Graydon, Mrs.
+    alias: Graydon-Stannus, Elizabeth
+    gutenberg_agent_id: '43360'
+    url: http://www.gutenberg.org/2009/agents/43360
+description: ''
+gutenberg_issued: '2014-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Glassware -- Ireland'
+- !lcsh 'Cut glass -- Ireland'
+title: Old Irish Glass
+url: http://www.gutenberg.org/ebooks/45570
